@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" <head>
+<meta charset="UTF-8
+    <meta name=" viewport" content="width=device-width" <title>Document</title>
+<style>
+    ul {
+        color: red;
+    }
+</style>
+
+<head>
+
+<body>
+    <h1>Example</h1>
+    <ul>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+    </ul>
+
+    <ul>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+    </ul>
+
+    <ul>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+    </ul>
+</body>
+
+</html>
