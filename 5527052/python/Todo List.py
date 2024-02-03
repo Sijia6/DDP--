@@ -1,4 +1,3 @@
-# Simple Todo List
 todo_list = []
 
 while True:
