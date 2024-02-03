@@ -1,4 +1,3 @@
-# Password generator script
 import random
 import string
 
